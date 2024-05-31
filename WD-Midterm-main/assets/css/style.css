@@ -1,0 +1,56 @@
+body {
+    background-image:url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsignificance-daylight-commercial-buildings&psig=AOvVaw3a7Pls-L0Kv78I4Y4Nmy6U&ust=1717043980963000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj4kduFsoYDFQAAAAAdAAAAABAW) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.left-panel {
+    flex: 1; background-color: #313178;
+    color: white;
+    padding: 20px;
+}
+
+.right-panel {
+    flex: 2; background-image: ;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+}
+
+descript {
+    padding: 20px; color: white;
+}
+
+.social-icons {
+
+}
+
+button {
+    background-color: #313178;
+    border-color: white;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3B5998;
+}
+
+social-icons {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+facebook {
+    background: #3B5998;
+    color: white;
+  }
